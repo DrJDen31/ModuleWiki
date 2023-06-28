@@ -1,1 +1,3 @@
 # ModuleWiki
+
+[Wiki]()
