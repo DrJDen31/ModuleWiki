@@ -1,3 +1,3 @@
 # ModuleWiki
 
-[Wiki]()
+[Wiki](https://github.com/DrJDen31/ModuleWiki/wiki)
